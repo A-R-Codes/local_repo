@@ -10,6 +10,7 @@
     <p>this is my file</p>
     <p>this is a new feature {button}</p>
     <p>content of added by feature3 </p>
+    <p>main form </p>
     <p>footer</p>
 </body>
 </html>
