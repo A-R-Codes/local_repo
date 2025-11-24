@@ -6,8 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>this is my main branch</h3>
+    <h3>this is my Feature 2 branch</h3>
     <p>this is my file</p>
     <p>this is a new feature {button}</p>
+    <p>this is a new feature {submit}</p>
 </body>
 </html>s
