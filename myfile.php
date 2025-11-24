@@ -12,6 +12,7 @@
     <p>content of added by feature3 </p>
     <p>featuer 4 form</p>
     <p>main form </p>
+    <p>content of added by feature4 </p>
     <p>footer</p>
 </body>
 </html>
