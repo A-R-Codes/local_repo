@@ -9,7 +9,6 @@
     <h3>this is my main branch</h3>
     <p>this is my file</p>
     <p>this is a new feature {button}</p>
-    
     <p>footer</p>
 </body>
 </html>
