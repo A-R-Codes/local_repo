@@ -11,6 +11,7 @@
     <p>this is a new feature {button}</p>
     <p>content of added by feature3 </p>
     <p>featuer 4 form</p>
+    <p>main form </p>
     <p>footer</p>
 </body>
 </html>
